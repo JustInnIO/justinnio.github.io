@@ -1,0 +1,2 @@
+mkdocs build -f gitbook.yml -d gitbook
+mkdocs build -f material.yml -d material
